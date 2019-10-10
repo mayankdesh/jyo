@@ -1,5 +1,5 @@
 {
-	"posts": <?xml version=""1.0""?><catalog><book id=""m1""><author>Test</author><title>T11</title></book></catalog> ,
+	"posts": {<?xml version=""1.0""?><catalog><book id=""m1""><author>Test</author><title>T11</title></book></catalog>} ,
 	"profile": {
 		"name": "Jyoti"
 		"name": "Mayank"
