@@ -1,9 +1,6 @@
 {
-	"posts": [{
-		"id": 1,
-		"title": "hello"
-	}],
+	"posts": [{"name":"M","value":"W"},{"name":"A","value":"Z"},{"name":"C","value":"X"}] ,
 	"profile": {
-		"name": "typicode"
+		"name": "Jyoti"
 	}
 }
